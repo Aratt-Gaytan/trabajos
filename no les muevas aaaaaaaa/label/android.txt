@@ -1,0 +1,3 @@
+title=pong game
+author=Martin Contreras Romo
+orientation=portrait

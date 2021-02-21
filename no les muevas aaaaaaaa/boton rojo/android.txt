@@ -1,0 +1,3 @@
+title=botonrojo
+author=aratt
+orientation=landscape
